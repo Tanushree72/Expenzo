@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Proyecto</string>
+    <string name="open_nav">Abrir menú de navegación</string>
+    <string name="close_nav">Cerrar menú de navegación</string>
+    <string name="hello_blank_fragment">Hola fragmento vacío</string>
+    <string name="messages_header">Mensajes</string>
+    <string name="sync_header">Sincronización</string>
+    <string name="signature_title">Tu firma</string>
+    <string name="reply_title">Acción de respuesta predeterminada</string>
+    <string name="sync_title">Sincronizar correo electrónico periódicamente</string>
+    <string name="attachment_title">Descargar archivos adjuntos entrantes</string>
+    <string name="attachment_summary_on">Descargar automáticamente archivos adjuntos para correos electrónicos entrantes
+    </string>
+    <string name="attachment_summary_off">Descargar archivos adjuntos solo cuando se soliciten manualmente</string>
+    <string-array name="options_array">
+        <item>Comida</item>
+        <item>Ropa</item>
+        <item>Amigo</item>
+        <item>Persona</item>
+        <item>Artículos de oficina</item>
+        <item>Otro</item>
+    </string-array>
+    <string-array name="options">
+        <item>Amigo</item>
+        <item>Persona</item>
+        <item>Otro</item>
+    </string-array>
+    <string name="add_amount">Agregar cantidad</string>
+    <string name="delete_button_content_description">Eliminar cantidad</string>
+    <string name="add_emergency_text" id="@+id/add_emergency_text">Agregar texto de emergencia</string>
+    <string name="enter_amount">Introducir cantidad</string>
+    <string name="scroll_view_description">Contenedor desplazable para texto de emergencia</string>
+    <string name="fab_add_description">Agregar texto de emergencia</string>
+
+
+</resources>

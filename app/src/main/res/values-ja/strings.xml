@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">プロジェクト</string>
+    <string name="open_nav">ナビゲーションメニューを開く</string>
+    <string name="close_nav">ナビゲーションメニューを閉じる</string>
+    <string name="hello_blank_fragment">こんにちは、空のフラグメントです</string>
+    <string name="messages_header">メッセージ</string>
+    <string name="sync_header">同期</string>
+    <string name="signature_title">あなたの署名</string>
+    <string name="reply_title">デフォルトの返信アクション</string>
+    <string name="sync_title">定期的にメールを同期する</string>
+    <string name="attachment_title">受信した添付ファイルをダウンロードする</string>
+    <string name="attachment_summary_on">受信したメールの添付ファイルを自動的にダウンロードする
+    </string>
+    <string name="attachment_summary_off">手動で要求されたときにのみ添付ファイルをダウンロードする</string>
+    <string-array name="options_array">
+        <item>食べ物</item>
+        <item>服</item>
+        <item>友達</item>
+        <item>人</item>
+        <item>文房具</item>
+        <item>その他</item>
+    </string-array>
+    <string-array name="options">
+        <item>友達</item>
+        <item>人</item>
+        <item>その他</item>
+    </string-array>
+    <string name="add_amount">金額を追加する</string>
+    <string name="delete_button_content_description">金額を削除する</string>
+    <string name="add_emergency_text" id="@+id/add_emergency_text">緊急テキストを追加する</string>
+    <string name="enter_amount">金額を入力してください</string>
+    <string name="scroll_view_description">緊急テキストのスクロール可能なコンテナ</string>
+    <string name="fab_add_description">緊急テキストを追加する</string>
+
+
+</resources>

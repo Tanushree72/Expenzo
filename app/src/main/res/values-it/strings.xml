@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Progetto</string>
+    <string name="open_nav">Apri Menu di Navigazione</string>
+    <string name="close_nav">Chiudi Menu di Navigazione</string>
+    <string name="hello_blank_fragment">Ciao frammento vuoto</string>
+    <string name="messages_header">Messaggi</string>
+    <string name="sync_header">Sincronizzazione</string>
+    <string name="signature_title">La tua firma</string>
+    <string name="reply_title">Azione di risposta predefinita</string>
+    <string name="sync_title">Sincronizza la posta elettronica periodicamente</string>
+    <string name="attachment_title">Scarica allegati in arrivo</string>
+    <string name="attachment_summary_on">Scarica automaticamente gli allegati per le email in arrivo
+    </string>
+    <string name="attachment_summary_off">Scarica solo gli allegati quando richiesto manualmente</string>
+    <string-array name="options_array">
+        <item>Cibo</item>
+        <item>Abbigliamento</item>
+        <item>Amico</item>
+        <item>Persona</item>
+        <item>Cancelleria</item>
+        <item>Altro</item>
+    </string-array>
+    <string-array name="options">
+        <item>Amico</item>
+        <item>Persona</item>
+        <item>Altro</item>
+    </string-array>
+    <string name="add_amount">Aggiungi importo</string>
+    <string name="delete_button_content_description">Elimina importo</string>
+    <string name="add_emergency_text" id="@+id/add_emergency_text">Aggiungi testo di emergenza</string>
+    <string name="enter_amount">Inserisci l\'importo</string>
+    <string name="scroll_view_description">Contenitore scorrevole per il testo di emergenza</string>
+    <string name="fab_add_description">Aggiungi testo di emergenza</string>
+
+
+</resources>

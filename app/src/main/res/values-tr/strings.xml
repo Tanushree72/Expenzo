@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Proje</string>
+    <string name="open_nav">Navigasyon Menüsünü Aç</string>
+    <string name="close_nav">Navigasyon Menüsünü Kapat</string>
+    <string name="hello_blank_fragment">Merhaba boş parça</string>
+    <string name="messages_header">Mesajlar</string>
+    <string name="sync_header">Senkronizasyon</string>
+    <string name="signature_title">İmzanız</string>
+    <string name="reply_title">Varsayılan yanıt eylemi</string>
+    <string name="sync_title">E-postaları periyodik olarak senkronize et</string>
+    <string name="attachment_title">Gelen ek dosyaları indir</string>
+    <string name="attachment_summary_on">Gelen e-postalar için ek dosyaları otomatik olarak indir
+    </string>
+    <string name="attachment_summary_off">Ek dosyaları yalnızca manuel olarak istendiğinde indir</string>
+    <string-array name="options_array">
+        <item>Yiyecek</item>
+        <item>Giyim</item>
+        <item>Arkadaş</item>
+        <item>Kişi</item>
+        <item>Kırtasiye</item>
+        <item>Diğer</item>
+    </string-array>
+    <string-array name="options">
+        <item>Arkadaş</item>
+        <item>Kişi</item>
+        <item>Diğer</item>
+    </string-array>
+    <string name="add_amount">Miktar Ekle</string>
+    <string name="delete_button_content_description">Miktarı Sil</string>
+    <string name="add_emergency_text" id="@+id/add_emergency_text">Acil metin ekle</string>
+    <string name="enter_amount">Miktarı Girin</string>
+    <string name="scroll_view_description">Acil metin için kaydırılabilir konteyner</string>
+    <string name="fab_add_description">Acil metin ekle</string>
+
+</resources>

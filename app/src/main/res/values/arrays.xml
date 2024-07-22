@@ -1,0 +1,40 @@
+<resources>
+    <!-- Reply Preference -->
+    <string-array name="lang_names">
+        <item>English</item>
+        <item>Korean</item>
+        <item>French</item>
+        <item>Spanish</item>
+        <item>German</item>
+        <item>Japanese</item>
+        <item>Turkish</item>
+        <item>Italian</item>
+        <item>Arabic</item>
+    </string-array>
+
+    <string-array name="lang_values">
+        <item>English</item>
+        <item>Korean</item>
+        <item>French</item>
+        <item>Spanish</item>
+        <item>German</item>
+        <item>Japanese</item>
+        <item>Turkish</item>
+        <item>Italian</item>
+        <item>Arabic</item>
+    </string-array>
+
+
+    <string-array name="mode_names">
+        <item>Light</item>
+        <item>Dark</item>
+    </string-array>
+    <string-array name="mode_values">
+        <item>Light</item>
+        <item>Dark</item>
+    </string-array>
+
+    <!-- strings.xml -->
+
+
+</resources>

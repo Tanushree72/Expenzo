@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Projet</string>
+    <string name="open_nav">Ouvrir le menu de navigation</string>
+    <string name="close_nav">Fermer le menu de navigation</string>
+    <string name="hello_blank_fragment">Bonjour fragment vide</string>
+    <string name="messages_header">Messages</string>
+    <string name="sync_header">Synchronisation</string>
+    <string name="signature_title">Votre signature</string>
+    <string name="reply_title">Action de réponse par défaut</string>
+    <string name="sync_title">Synchroniser les emails périodiquement</string>
+    <string name="attachment_title">Télécharger les pièces jointes entrantes</string>
+    <string name="attachment_summary_on">Télécharger automatiquement les pièces jointes des emails entrants
+    </string>
+    <string name="attachment_summary_off">Télécharger les pièces jointes uniquement lorsque demandé manuellement</string>
+    <string-array name="options_array">
+        <item>Nourriture</item>
+        <item>Vêtements</item>
+        <item>Ami</item>
+        <item>Personne</item>
+        <item>Fournitures de bureau</item>
+        <item>Autre</item>
+    </string-array>
+    <string-array name="options">
+        <item>Ami</item>
+        <item>Personne</item>
+        <item>Autre</item>
+    </string-array>
+    <string name="add_amount">Ajouter une quantité</string>
+    <string name="delete_button_content_description">Supprimer la quantité</string>
+    <string name="add_emergency_text" id="@+id/add_emergency_text">Ajouter un texte d\'urgence</string>
+    <string name="enter_amount">Entrer le montant</string>
+    <string name="scroll_view_description">Conteneur défilable pour le texte d\'urgence</string>
+    <string name="fab_add_description">Ajouter un texte d\'urgence</string>
+    <string name="channel_name">YourChannelName</string>
+    <string name="channel_description">YourChannelDescription</string>
+
+</resources>

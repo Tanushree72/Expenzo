@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#C1A8FA</color>
+    <color name="teal_200">#B2BCFA</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="dodgerblue">#7F7FF3</color>
+    <color name="white">#FFFFFF</color>
+    <color name="yellow">#ffd230</color>
+    <color name="badge_color">#1F056D</color>
+    <color name="badge_text_color">#632F46</color>
+
+</resources>

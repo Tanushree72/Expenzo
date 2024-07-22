@@ -1,0 +1,40 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">المشروع</string>
+    <string name="open_nav">فتح درج التنقل</string>
+    <string name="close_nav">إغلاق درج التنقل</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">مرحبًا بك في القطعة الفارغة</string>
+    <!-- Preference Titles -->
+    <string name="messages_header">الرسائل</string>
+    <string name="sync_header">المزامنة</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">توقيعك</string>
+    <string name="reply_title">الاستجابة الافتراضية</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">مزامنة البريد الإلكتروني بانتظام</string>
+    <string name="attachment_title">تنزيل المرفقات الواردة</string>
+    <string name="attachment_summary_on">تنزيل المرفقات تلقائيًا للرسائل الواردة</string>
+    <string name="attachment_summary_off">تنزيل المرفقات فقط عند الطلب يدويًا</string>
+    <string-array name="options_array">
+        <item>طعام</item>
+        <item>ملابس</item>
+        <item>صديق</item>
+        <item>شخص</item>
+        <item>لوازم مكتبية</item>
+        <item>أخرى</item>
+    </string-array>
+    <string-array name="options">
+        <item>صديق</item>
+        <item>شخص</item>
+        <item>أخرى</item>
+    </string-array>
+    <string name="add_amount">إضافة مبلغ</string>
+    <string name="delete_button_content_description">حذف المبلغ</string>
+    <string name="add_emergency_text" id="@+id/add_emergency_text">إضافة نص طوارئ</string>
+    <string name="enter_amount">أدخل المبلغ</string>
+    <string name="scroll_view_description">حاوية قابلة للتمرير للنص الطارئ</string>
+    <string name="fab_add_description">إضافة نص طوارئ</string>
+
+</resources>

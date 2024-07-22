@@ -1,0 +1,22 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.Expensetrackingpro" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+
+        <item name="android:textColor">@color/text_color_light</item>
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/dodgerblue</item>
+        <item name="colorPrimaryVariant">@color/dodgerblue</item>
+        <item name="colorOnPrimary">@color/black</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/teal_200</item>
+        <item name="colorSecondaryVariant">@color/teal_700</item>
+        <item name="colorOnSecondary">@color/black</item>
+        <!-- Status bar color. -->
+    </style>
+
+    <color name="text_color_light">#000000</color>
+    <color name="edittext_bg_color_light">#FFFFFF</color>
+    <color name="textview_bg_color_light">#FFFFFF</color>
+    <color name="textview_bg_color_dark">#000000</color>
+
+</resources>
